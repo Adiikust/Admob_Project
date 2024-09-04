@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980227870391",
+    "project_id": "admob-b25a0",
+    "storage_bucket": "admob-b25a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980227870391:android:5a9bfdea080177925f0732",
+        "android_client_info": {
+          "package_name": "com.example.admob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFEPj0GL18fMZ_yKH0a1vpNaO9tD9Jec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
